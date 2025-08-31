@@ -49,6 +49,3 @@ streamlit run app.py
 - Loading spinner during image analysis
 - Toasts for favorites
 - Session-persistent ratings/favorites
-
-## 📄 License
-For educational/demo use.
