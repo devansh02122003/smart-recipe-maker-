@@ -30,7 +30,6 @@ streamlit run app.py
 ## 🌐 Deploy (Streamlit Cloud)
 1. Push these files to GitHub.
 2. On Streamlit Cloud, create a new app from your repo.
-3. (Optional) Add `HF_TOKEN` as a **secret** if you want image detection via API.
 
 ## ⚙️ Files
 - `app.py` — main Streamlit app
