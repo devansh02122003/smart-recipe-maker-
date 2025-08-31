@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Masala Omelette",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "green chilli",
+      "salt",
+      "pepper",
+      "oil"
+    ],
+    "steps": [
+      "Beat eggs with salt and pepper",
+      "Saute onion, tomato, and chilli in oil",
+      "Pour eggs, cook both sides and serve"
+    ],
+    "difficulty": "Easy",
+    "time": 10,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 220,
+      "protein": 14
+    }
+  },
+  {
+    "name": "Paneer Bhurji",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "turmeric",
+      "chilli powder",
+      "garam masala",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Saute onion and tomato with spices",
+      "Add crumbled paneer and cook 3-4 minutes",
+      "Garnish and serve"
+    ],
+    "difficulty": "Easy",
+    "time": 20,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 18
+    }
+  },
+  {
+    "name": "Vegetable Pulao",
+    "ingredients": [
+      "rice",
+      "peas",
+      "carrot",
+      "beans",
+      "onion",
+      "garlic",
+      "ginger",
+      "cumin",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Saute aromatics and spices",
+      "Add vegetables and washed rice",
+      "Add water and cook until fluffy"
+    ],
+    "difficulty": "Easy",
+    "time": 30,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 380,
+      "protein": 8
+    }
+  },
+  {
+    "name": "Tomato Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "onion",
+      "garlic",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Boil pasta until al dente",
+      "Make tomato-garlic sauce",
+      "Toss pasta with sauce"
+    ],
+    "difficulty": "Easy",
+    "time": 25,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 12
+    }
+  },
+  {
+    "name": "Grilled Chicken Bowl",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "garlic",
+      "lemon",
+      "salt",
+      "pepper",
+      "oil"
+    ],
+    "steps": [
+      "Marinate chicken with lemon, garlic, salt, pepper",
+      "Grill chicken until done",
+      "Serve over steamed rice"
+    ],
+    "difficulty": "Easy",
+    "time": 35,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 520,
+      "protein": 36
+    }
+  },
+  {
+    "name": "Chickpea Salad",
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "cucumber",
+      "lemon",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "steps": [
+      "Chop veggies",
+      "Mix with chickpeas, lemon, oil, salt, pepper",
+      "Serve chilled"
+    ],
+    "difficulty": "Easy",
+    "time": 10,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 260,
+      "protein": 10
+    }
+  },
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": [
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion",
+      "garlic",
+      "oil"
+    ],
+    "steps": [
+      "Scramble eggs and set aside",
+      "Stir-fry garlic, rice, soy sauce",
+      "Add eggs and spring onion"
+    ],
+    "difficulty": "Easy",
+    "time": 15,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 450,
+      "protein": 14
+    }
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": [
+      "wheat flour",
+      "potato",
+      "onion",
+      "chilli",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Prepare dough and spicy potato filling",
+      "Stuff and roll parathas",
+      "Cook on tawa with oil"
+    ],
+    "difficulty": "Medium",
+    "time": 40,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 500,
+      "protein": 12
+    }
+  },
+  {
+    "name": "Veg Sandwich",
+    "ingredients": [
+      "bread",
+      "tomato",
+      "cucumber",
+      "onion",
+      "cheese",
+      "mayonnaise",
+      "pepper",
+      "salt"
+    ],
+    "steps": [
+      "Layer sliced veggies and cheese",
+      "Spread mayo, season and grill"
+    ],
+    "difficulty": "Easy",
+    "time": 10,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 380,
+      "protein": 11
+    }
+  },
+  {
+    "name": "Lemon Rice",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "mustard seeds",
+      "curry leaves",
+      "peanut",
+      "turmeric",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Temper mustard, curry leaves, peanuts",
+      "Mix with rice, turmeric and lemon juice"
+    ],
+    "difficulty": "Easy",
+    "time": 20,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 360,
+      "protein": 7
+    }
+  },
+  {
+    "name": "Poha",
+    "ingredients": [
+      "poha",
+      "onion",
+      "potato",
+      "peanut",
+      "mustard seeds",
+      "turmeric",
+      "curry leaves",
+      "lemon",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Rinse poha and drain",
+      "Temper spices and veggies",
+      "Mix poha and finish with lemon"
+    ],
+    "difficulty": "Easy",
+    "time": 20,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 6
+    }
+  },
+  {
+    "name": "Veg Maggi",
+    "ingredients": [
+      "maggi",
+      "carrot",
+      "peas",
+      "onion",
+      "tomato",
+      "masala",
+      "salt",
+      "water"
+    ],
+    "steps": [
+      "Cook veggies briefly",
+      "Add maggi, masala and water",
+      "Cook until done"
+    ],
+    "difficulty": "Easy",
+    "time": 8,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 9
+    }
+  },
+  {
+    "name": "Shakshuka",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "onion",
+      "garlic",
+      "cumin",
+      "chilli",
+      "olive oil",
+      "salt"
+    ],
+    "steps": [
+      "Make spiced tomato base",
+      "Crack eggs and simmer until set"
+    ],
+    "difficulty": "Medium",
+    "time": 25,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 16
+    }
+  },
+  {
+    "name": "Veggie Omelette",
+    "ingredients": [
+      "egg",
+      "onion",
+      "capsicum",
+      "tomato",
+      "salt",
+      "pepper",
+      "oil"
+    ],
+    "steps": [
+      "Beat eggs with seasoning",
+      "Cook with chopped veggies"
+    ],
+    "difficulty": "Easy",
+    "time": 10,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 240,
+      "protein": 15
+    }
+  },
+  {
+    "name": "Curd Rice",
+    "ingredients": [
+      "rice",
+      "curd",
+      "mustard seeds",
+      "curry leaves",
+      "ginger",
+      "salt"
+    ],
+    "steps": [
+      "Mix cooled rice with curd and salt",
+      "Temper mustard, curry leaves, ginger and add"
+    ],
+    "difficulty": "Easy",
+    "time": 15,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 310,
+      "protein": 8
+    }
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garam masala",
+      "coriander powder",
+      "chilli powder",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Cook onion-tomato masala with spices",
+      "Add chickpeas and simmer"
+    ],
+    "difficulty": "Medium",
+    "time": 35,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 380,
+      "protein": 14
+    }
+  },
+  {
+    "name": "Veg Stir Fry",
+    "ingredients": [
+      "carrot",
+      "beans",
+      "capsicum",
+      "soy sauce",
+      "garlic",
+      "oil",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Stir fry veggies on high heat",
+      "Season with soy and pepper"
+    ],
+    "difficulty": "Easy",
+    "time": 12,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5
+    }
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": [
+      "wheat flour",
+      "milk",
+      "egg",
+      "sugar",
+      "baking powder",
+      "butter",
+      "salt"
+    ],
+    "steps": [
+      "Make batter with dry and wet ingredients",
+      "Cook small ladles on pan both sides"
+    ],
+    "difficulty": "Easy",
+    "time": 20,
+    "diet": "None",
+    "servings": 2,
+    "nutrition": {
+      "calories": 420,
+      "protein": 11
+    }
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "garlic",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Saute aromatics and tomatoes",
+      "Blend smooth and simmer"
+    ],
+    "difficulty": "Easy",
+    "time": 25,
+    "diet": "Vegetarian",
+    "servings": 2,
+    "nutrition": {
+      "calories": 150,
+      "protein": 4
+    }
+  },
+  {
+    "name": "Peanut Butter Banana Toast",
+    "ingredients": [
+      "bread",
+      "peanut butter",
+      "banana",
+      "honey"
+    ],
+    "steps": [
+      "Toast bread",
+      "Spread peanut butter, add banana slices and honey"
+    ],
+    "difficulty": "Easy",
+    "time": 5,
+    "diet": "Vegetarian",
+    "servings": 1,
+    "nutrition": {
+      "calories": 320,
+      "protein": 9
+    }
+  },
+  {
+    "name": "Veg Fried Noodles",
+    "ingredients": [
+      "noodles",
+      "carrot",
+      "cabbage",
+      "capsicum",
+      "soy sauce",
+      "garlic",
+      "oil",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Boil noodles and rinse",
+      "Stir-fry veggies, add noodles and sauces"
+    ],
+    "difficulty": "Medium",
+    "time": 20,
+    "diet": "Vegan",
+    "servings": 2,
+    "nutrition": {
+      "calories": 480,
+      "protein": 10
+    }
+  },
+  {
+    "name": "Greek Yogurt Parfait",
+    "ingredients": [
+      "greek yogurt",
+      "honey",
+      "granola",
+      "berries"
+    ],
+    "steps": [
+      "Layer yogurt, granola and berries",
+      "Drizzle honey"
+    ],
+    "difficulty": "Easy",
+    "time": 5,
+    "diet": "Vegetarian",
+    "servings": 1,
+    "nutrition": {
+      "calories": 260,
+      "protein": 12
+    }
+  }
+]

@@ -1,0 +1,7 @@
+streamlit>=1.36.0
+pillow
+requests
+# Optional for local image classification (comment out if not needed)
+transformers
+torch
+torchvision
